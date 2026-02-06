@@ -1,6 +1,6 @@
 {
   "name": "Ehliyet Test Uygulaması",
-  "short_name": "Ehliyet",
+  "short_name": "Ehliyet Test Uygulaması",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -17,5 +17,7 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "id": "Ehliyet Test Uygulaması1"
 }
+
